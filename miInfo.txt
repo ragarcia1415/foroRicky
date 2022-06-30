@@ -1,5 +1,0 @@
-<h1>FORO DE APLICACIÓN DE TECNOLOGÍAS WEB</h1>
-<p><b>Estudiante: </b>Ricky Garcia</p>
-<p><b>Correo: </b>ragarcia12@espe.edu.ec</p>
-<p><b>Fecha: </b> 30-06-2022</p>
-<p><b>NRC: </b>8496</p>
